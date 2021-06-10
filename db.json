@@ -1,0 +1,126 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Air Jordan 4",
+      "image": "/images/1.jpg",
+      "tags": "92 ",
+      "price": "11800",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "Nike Paul George PG 3",
+      "price": "9780",
+      "tags": "25 Colors",
+      "image": "/images/2.jpg",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "name": "Jordan Why Not Zer0.2",
+      "image": "/images/3.jpg",
+      "tags": "16 Color, y",
+      "price": "11780",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "name": "Nike Air Foamposite One",
+      "image": "/images/4.jpg",
+      "tags": "84 Colors",
+      "price": "14629",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "adidas Harden Vol.3",
+      "image": "/images/5.jpg",
+      "tags": "34 Colors",
+      "price": "9380",
+      "status": "available"
+    },
+    {
+      "id": 6,
+      "name": "Nike Zoom Kobe 1",
+      "image": "/images/6.jpg",
+      "tags": "26 Colors",
+      "price": "16078",
+      "status": "available"
+    },
+    {
+      "id": 7,
+      "name": "Nike Hyperdunk X(2018)",
+      "image": "/images/7.jpg",
+      "tags": "",
+      "price": "10920",
+      "status": "available"
+    },
+    {
+      "id": 8,
+      "name": "Nike KD 12",
+      "image": "/images/8.jpg",
+      "tags": "",
+      "price": "16360",
+      "status": "available"
+    },
+    {
+      "name": "adidas D.O.N. Issue #1",
+      "price": "7760",
+      "status": "available",
+      "tags": "",
+      "image": "/images/9.jpg",
+      "id": 9
+    },
+    {
+      "name": "adidas D.O.N. Issue #1",
+      "price": "9780",
+      "status": "available",
+      "tags": "",
+      "image": "/images/10.jpg",
+      "id": 10
+    },
+    {
+      "name": "Nike Kyrie Flytrap",
+      "price": "6680",
+      "status": "available",
+      "tags": "",
+      "image": "/images/11.jpg",
+      "id": 11
+    },
+    {
+      "name": "Air Jordan 3",
+      "price": "8980",
+      "status": "available",
+      "tags": "",
+      "image": "/images/12.jpg",
+      "id": 12
+    }
+  ],
+  "carts": [
+    {
+      "productId": 1,
+      "name": "Air Jordan 4",
+      "image": "/images/1.jpg",
+      "price": "11800",
+      "mount": 2,
+      "id": 1
+    },
+    {
+      "productId": 2,
+      "name": "Nike Paul George PG 3",
+      "image": "/images/2.jpg",
+      "price": "9780",
+      "mount": 2,
+      "id": 2
+    },
+    {
+      "productId": 6,
+      "name": "Nike Zoom Kobe 1",
+      "image": "/images/6.jpg",
+      "price": "16078",
+      "mount": 2,
+      "id": 3
+    }
+  ]
+}
