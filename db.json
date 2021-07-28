@@ -99,28 +99,13 @@
   ],
   "carts": [
     {
-      "productId": 1,
-      "name": "Air Jordan 4",
-      "image": "/images/1.jpg",
-      "price": "11800",
-      "mount": 2,
-      "id": 1
-    },
-    {
-      "productId": 2,
-      "name": "Nike Paul George PG 3",
-      "image": "/images/2.jpg",
-      "price": "9780",
-      "mount": 4,
+      "productId": 7,
+      "name": "Nike Hyperdunk X(2018)",
+      "image": "/images/7.jpg",
+      "price": "10920",
+      "mount": 1,
+      "userId": "hi.xiaolonghuang@gmail.com",
       "id": 2
-    },
-    {
-      "productId": 6,
-      "name": "Nike Zoom Kobe 1",
-      "image": "/images/6.jpg",
-      "price": "16078",
-      "mount": 2,
-      "id": 3
     }
   ]
 }
